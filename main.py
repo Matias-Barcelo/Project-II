@@ -1,2 +1,2 @@
-print('aaaaaaaa, Lightning World!')
+print(' Lightning World!')
 print ("ey")
